@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/E8SCNcKDPvxlTP6liKd6ipiPSkBqLu2dwOggVTaMwVDJTgrc5bJtISVFchzYjBtFzdwFwZFwpgiX8/1YnFYA==",
+  "success": true,
+  "projectFilePath": "C:\\Developer\\DictionaryOne\\DictionaryFirst\\DictionaryFirst\\DictionaryFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naras\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Naras\\.nuget\\packages\\microsoft.experimental.collections\\1.0.6-e190117-3\\microsoft.experimental.collections.1.0.6-e190117-3.nupkg.sha512",
+    "C:\\Users\\Naras\\.nuget\\packages\\universal.common\\7.5.0\\universal.common.7.5.0.nupkg.sha512",
+    "C:\\Users\\Naras\\.nuget\\packages\\universal.common.collections\\3.5.0\\universal.common.collections.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

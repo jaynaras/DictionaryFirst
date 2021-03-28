@@ -1,0 +1,17 @@
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.csprojAssemblyReference.cache
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.AssemblyInfoInputs.cache
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.AssemblyInfo.cs
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.csproj.CoreCompileInputs.cache
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\DictionaryFirst.exe
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\DictionaryFirst.deps.json
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\DictionaryFirst.runtimeconfig.json
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\DictionaryFirst.runtimeconfig.dev.json
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\DictionaryFirst.dll
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\DictionaryFirst.pdb
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\Microsoft.Experimental.Collections.dll
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\Universal.Common.dll
+C:\Developer\DictionaryFirst\bin\Debug\netcoreapp3.1\Universal.Common.Collections.dll
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.csproj.CopyComplete
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.dll
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.pdb
+C:\Developer\DictionaryFirst\obj\Debug\netcoreapp3.1\DictionaryFirst.genruntimeconfig.cache

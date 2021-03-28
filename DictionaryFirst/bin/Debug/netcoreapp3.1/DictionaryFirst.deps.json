@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DictionaryFirst/1.0.0": {
+        "dependencies": {
+          "Microsoft.Experimental.Collections": "1.0.6-e190117-3",
+          "Universal.Common.Collections": "3.5.0"
+        },
+        "runtime": {
+          "DictionaryFirst.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Experimental.Collections/1.0.6-e190117-3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Experimental.Collections.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        }
+      },
+      "Universal.Common/7.5.0": {
+        "runtime": {
+          "lib/netstandard2.1/Universal.Common.dll": {
+            "assemblyVersion": "7.5.0.0",
+            "fileVersion": "7.5.0.0"
+          }
+        }
+      },
+      "Universal.Common.Collections/3.5.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Universal.Common": "7.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Universal.Common.Collections.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryFirst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Experimental.Collections/1.0.6-e190117-3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S2IfWAo5bnXSgpr8o0LR3aMqo7QD83VQUPbgta6aOYIBq8M85Hpk8hVUco22GFhSRuf4ZhP8jUs2wPlO0Dbdow==",
+      "path": "microsoft.experimental.collections/1.0.6-e190117-3",
+      "hashPath": "microsoft.experimental.collections.1.0.6-e190117-3.nupkg.sha512"
+    },
+    "Universal.Common/7.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9S9JHUKgl0sLtJzUiORwl+5ymj6olqxPSyqtvvM1atztmWo3IR2BP50nOZ+srZtcQMKHuhNbullKZeYylJs84w==",
+      "path": "universal.common/7.5.0",
+      "hashPath": "universal.common.7.5.0.nupkg.sha512"
+    },
+    "Universal.Common.Collections/3.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-deTByMivDCl/ts9PqXn2AwJ5Jv20oe30RHpXHCxnyqyC1CxjRL7W3luSe/asSNEA6x7DPMAVNpHw+Kg3MKe2Cw==",
+      "path": "universal.common.collections/3.5.0",
+      "hashPath": "universal.common.collections.3.5.0.nupkg.sha512"
+    }
+  }
+}
